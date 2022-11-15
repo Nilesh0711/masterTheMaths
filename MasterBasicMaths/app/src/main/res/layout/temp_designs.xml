@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/TVquestion"
+        android:layout_width="102dp"
+        android:layout_height="242dp"
+        android:gravity="top"
+        android:text="@string/TVquestion"
+        android:textAppearance="@style/TVquestion" />
+
+    <TextView
+        android:id="@+id/TVnum1"
+        android:layout_width="83dp"
+        android:layout_height="155dp"
+        android:gravity="top"
+        android:text="4"
+        android:textAppearance="@style/TVnum1" />
+
+    <TextView
+        android:id="@+id/TVnum2"
+        android:layout_width="80dp"
+        android:layout_height="155dp"
+        android:gravity="top"
+        android:text="5"
+        android:textAppearance="@style/TVnum1" />
+
+    <TextView
+        android:id="@+id/TVnum3"
+        android:layout_width="78dp"
+        android:layout_height="155dp"
+        android:gravity="top"
+        android:text="6"
+        android:textAppearance="@style/TVnum1" />
+
+    <TextView
+        android:id="@+id/TVnum4"
+        android:layout_width="83dp"
+        android:layout_height="155dp"
+        android:gravity="top"
+        android:text="7"
+        android:textAppearance="@style/TVnum1" />
+
+</RelativeLayout>

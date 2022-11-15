@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TVquestion">
+        <item name="android:textSize">
+            200sp
+        </item>
+        <item name="android:textColor">
+            #CACACA
+        </item>
+    </style>
+
+    <style name="TVnum1">
+        <item name="android:textSize">
+            128sp
+        </item>
+        <item name="android:textColor">
+            #DFDFDF
+        </item>
+    </style>
+</resources>
